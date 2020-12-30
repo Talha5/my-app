@@ -4,8 +4,6 @@
   "private": true,
   "devDependencies": {
     "@google-cloud/translate": "^6.0.5",
-    "@tailwindcss/forms": "^0.2.1",
-    "@tailwindcss/postcss7-compat": "^2.0.2",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -19,7 +17,9 @@
   },
   "dependencies": {
     "@craco/craco": "^6.0.0",
-    "diverst-translaty": "^0.0.5"
+    "diverst-translaty": "^0.0.5",
+    "@tailwindcss/forms": "^0.2.1",
+    "@tailwindcss/postcss7-compat": "^2.0.2"
   },
   "scripts": {
     "start": "craco start",
