@@ -1,1 +1,1 @@
-web: yarn build && serve -s build -b 0.0.0.0:$PORT
+web: yarn build && serve -s build -p $PORT
