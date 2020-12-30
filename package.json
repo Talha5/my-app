@@ -3,23 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "@google-cloud/translate": "^6.0.5",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
-    "autoprefixer": "^9",
-    "postcss": "^7",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "@testing-library/user-event": "^12.1.10"
   },
   "dependencies": {
     "@craco/craco": "^6.0.0",
     "diverst-translaty": "^0.0.5",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "@tailwindcss/forms": "^0.2.1",
-    "@tailwindcss/postcss7-compat": "^2.0.2"
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "autoprefixer": "^9",
+    "postcss": "^7",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "craco start",
