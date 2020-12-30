@@ -22,8 +22,8 @@
     "@tailwindcss/postcss7-compat": "^2.0.2"
   },
   "scripts": {
-    "start": "craco build",
-    "build": "craco start",
+    "start": "craco start",
+    "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
