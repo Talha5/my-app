@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// FIXME: React rendering issue.
 ReactDOM.render(
   <React.StrictMode>
     <App />
